@@ -11,7 +11,7 @@ for ($i = 0; $i < 10; $i++) {
     if ($next > 100) {
         break; 
     }
-    echo $next . ' ';
+    echo $first . ' ';
 
     $first = $second;
     $second = $next;

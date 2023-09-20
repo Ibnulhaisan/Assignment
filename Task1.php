@@ -30,5 +30,7 @@ function printEvenNumbersWithDoWhileLoop($start, $end, $step) {
 }
 
 printEvenNumbersWithDoWhileLoop(2, 20, 2);
+
 ?>
+ 
 
